@@ -1,4 +1,4 @@
-
+//Stack
 #include "Header.h"
 Stack::Stack(int _Size)
 {
