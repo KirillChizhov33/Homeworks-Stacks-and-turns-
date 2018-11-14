@@ -32,6 +32,10 @@ public:
 	{
 		time--;
 	}
+	void TimeAdd()
+	{
+		time++;
+	}
 	Task & operator=(const Task &b)
 	{
 		if (this == &b) return *this;
